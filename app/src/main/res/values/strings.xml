@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee app</string>
+    <string-array name="coffees">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Macciato</item>
+        <item>Mocha</item>
+    </string-array>
+
+</resources>
